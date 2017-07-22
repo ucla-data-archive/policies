@@ -3,46 +3,6 @@ title: UCLA Data Archive Collection Policy
 author: "Elizabeth Stephenson"
 ---
 
-* [Introduction](#introduction)
-* [Content Coverage](#content-coverage)
-   * [Scope](#scope)
-   * [Kinds Of Research Data](#kinds-of-research-data)
-   * [Status Of The Research Data](#status-of-the-research-data)
-   * [Versions](#versions)
-   * [Data File Formats](#data-file-formats)
-   * [Volume And Size Limitations](#volume-and-size-limitations)
-* [Metadata](#metadata)
-   * [Access To Metadata](#access-to-metadata)
-   * [Reuse Of Metadata](#reuse-of-metadata)
-   * [Metadata Schemas](#metadata-schemas)
-* [Submission Of Data Ingest](#submission-of-data-ingest)
-   * [Eligible Depositors](#eligible-depositors)
-   * [Moderation By Repository](#moderation-by-repository)
-   * [Data Quality Requirements](#data-quality-requirements)
-      * [Responsibility](#responsibility)
-      * [Quality Assessment](#quality-assessment)
-   * [Confidentiality And Disclosure](#confidentiality-and-disclosure)
-   * [Embargo Status](#embargo-status)
-   * [Rights And Ownership](#rights-and-ownership)
-* [Access And Reuse Of Data](#access-and-reuse-of-data)
-   * [Access To Data Objects](#access-to-data-objects)
-      * [Controlled Access](#controlled-access)
-      * [Restricted Access](#restricted-access)
-      * [Registration](#registration)
-      * [Access Methods](#access-methods)
-      * [Access And Use](#access-and-use)
-      * [Instructional Uses](#instructional-uses)
-      * [Citation Of Use](#citation-of-use)
-* [Preservation Of Data](#preservation-of-data)
-   * [Retention Period](#retention-period)
-   * [Functional Preservation](#functional-preservation)
-   * [File Curation](#file-curation)
-   * [Fixity and Authenticity](#fixity-and-authenticity)
-* [Withdrawal of Data and Succession Plans](#withdrawal-of-data-and-succession-plans)
-   * [Conditions for Withdrawal or Removal of Datasets](#conditions-for-withdrawal-or-removal-of-datasets)
-   * [Closure And Succession](#closure-and-succession)
-
----
 ISR Data Archive Policy on Acquisitions and Archiving by Elizabeth (Libbie) Stephenson is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License.PURPOSE
 
 This document describes the policies and practices followed by the Social Science Data Archive with respect to acquisitions and archiving of research data.  It will be used to work with faculty and research units where surveys and other data formats are generated in the course of research and where there is a desire for long term management of these materials.
