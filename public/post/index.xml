@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on UCLA Library Data Archive</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on UCLA Library Data Archive</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 18 Oct 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Open Science Framework for Research Workflows</title>
+      <link>/2017/10/18/open-science-framework-for-research-workflows/</link>
+      <pubDate>Wed, 18 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/10/18/open-science-framework-for-research-workflows/</guid>
+      <description>Location: Powell Library, CLICC Classroom C
+There are many actions researchers can take to increase the openness and reproducibility of their work. Please join us for a workshop, hosted by the Center for Open Science, to learn easy, practical steps researchers can take to increase the reproducibility of their work. The workshop will be hands-on. Using example studies, attendees will actively participate in creating a reproducible project from start to finish.</description>
+    </item>
+    
+    <item>
+      <title>Software Carpentry - UCLA</title>
+      <link>/2017/10/16/software-carpentry---ucla/</link>
+      <pubDate>Mon, 16 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/10/16/software-carpentry---ucla/</guid>
+      <description>Software Carpentry aims to help researchers get their work done in less time and with less pain by teaching them basic research computing skills. This hands-on workshop will cover basic concepts and tools, including program design, version control, data management, and task automation. Participants will be encouraged to help one another and to apply what they have learned to their own research problems.
+Who: The course is aimed at graduate students and other researchers.</description>
+    </item>
+    
+    <item>
+      <title>Library Carpentry Workshop</title>
+      <link>/2017/09/30/library-carpentry-workshop/</link>
+      <pubDate>Sat, 30 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/09/30/library-carpentry-workshop/</guid>
+      <description>LOCATION: West Electronic Classroom, YRL What: Library Carpentry introduces you to the fundamentals of computing and provides you with a platform for further self-directed learning. Who: The course is for librarians, archivists, and other information workers. You don&amp;rsquo;t need to have any previous knowledge of the tools that will be presented at the workshop. When: Sept 8, 2017. Add to your Google Calendar. Website: https://ucla-data-archive.github.io/2017-09-08-ucla/ Requirements: Participants must bring a laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.</description>
+    </item>
+    
+    <item>
+      <title>Using Data Effectively: Carpentries Teach Tools and Best Practices</title>
+      <link>/2017/09/07/using-data-effectively-carpentries-teach-tools-and-best-practices/</link>
+      <pubDate>Thu, 07 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/09/07/using-data-effectively-carpentries-teach-tools-and-best-practices/</guid>
+      <description>LOCATION: Young Research Library Presentation Room Event details: http://calendar.library.ucla.edu/event/3512041
+Looking for contextually-based data and computational training in a supportive, collaborative environment? Come join us in the Young Research Library Presentation Room for an introduction to the Software &amp;amp; Data Carpentry movement &amp;ndash; a community-based computational and data skills instruction. The Community Development Lead for Software &amp;amp; Data Carpentry, Belinda Weaver, is in town from Brisbane, Australia to promote and catalyze the Carpentries at UCLA.</description>
+    </item>
+    
+  </channel>
+</rss>
