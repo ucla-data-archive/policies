@@ -14,36 +14,33 @@ The Data Archive provides data services that are tied to the data life-cycle.
 
 * Review data sources
 * Help investigate archiving issues, costs, consent and disclosure risks
+* Create a data management plan
+
 
 ### Collect/Assure
 
 * Project management, file organization, QA for data collection
 * Provide consultation on restricted data (access and security)
 
-Example
-
 ### Describe
+
+* Help with filenames, standard terminology, data dictionaries
+* Document analysis and file manipulations
+
+### Preserve
+
+* Help with backing up your Data
+* Help with deciding what data to preserve
+* Choosing stable file formats
+* Help identifying suitable repositories
+
 
 ### Analysis
 
-*Document analysis and file manipulations
-Manage file versions
+* Help identigying most appropriate software
 
-Create a data management plan
-Make decisions about documentation form and content
-Conduct pretest of collection materials and methods
-Data Collection
+### Integration
 
-Organize files, backups & storage, QA for data collection
-Think about access control and security
-Data Analysis
-
-
-Data Sharing
-
-Determine file formats
-Contact Archive for advice
-Further document and clean data
-End of Project
-
-Deposit data in data archive (repository)
+* Consider the compatability
+* * Document the steps
+* Captrue the provenance of you sources
