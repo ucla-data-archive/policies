@@ -34,13 +34,12 @@ The Data Archive provides data services that are tied to the data life-cycle.
 * Choosing stable file formats
 * Help identifying suitable repositories
 
-
-### Analysis
-
-* Help identigying most appropriate software
-
 ### Integration
 
 * Consider the compatability
-* * Document the steps
+* Document the steps
 * Captrue the provenance of you sources
+
+### Analysis
+
+* Help identifying most appropriate software
