@@ -1,16 +1,18 @@
 ---
-title: UCLA Data Archive Collection Policy
-author: "Elizabeth Stephenson"
+title: UCLA Researh Data Collection Policy
+author:
+-"Elizabeth Stephenson"
+-"Dana Peterman"
 ---
+Other UCLA Collection Development Policies
+[Open Scholarship and Collections Policy](http://www.library.ucla.edu/about/about-collections/open-scholarship-collections-policy)
 
-ISR Data Archive Policy on Acquisitions and Archiving by Elizabeth (Libbie) Stephenson is licensed under a Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License.PURPOSE
+PURPOSE
 
-This document describes the policies and practices followed by the Social Science Data Archive with respect to acquisitions and archiving of research data.  It will be used to work with faculty and research units where surveys and other data formats are generated in the course of research and where there is a desire for long term management of these materials.
+This document describes the policies and practices followed by the Data Archive with respect to acquisitions and archiving of research data.  It will be used to work with faculty and research units where surveys and other data formats are generated in the course of research and where there is a desire for long term management of these materials.
 
 Introduction
 ------------
-
-The Data Archive has been operating at UCLA since 1961 when it was first established by political science Professor Dwaine Marvick as the Political Behavior Archive (PBA).  When UCLA’s Survey Research Center (SRC) was formed in 1972 the PBA was re-envisioned as the Archive Data Library.  In 1974, the Archive was moved with the SRC into the newly formed Institute for Social Science Research (now ISR).  In 2010, the unit was separated from ISR and is now called the Social Science Data Archive.
 
 Over the years, the ability to manage a collection of raw data files used in social research has been directly linked to the technology available for doing so.  Data archives need a robust computing infrastructure to carry out routine procedures on the data files to ensure their viability and usability.  When computing platforms and operating systems change; when statistical packages change; and when tools for creating descriptive information and metadata about data changes, the archival operation, including its policies, must change too.  Therefore this document on acquisitions and archiving will evolve over time to adapt to a changing technological environment.
 
