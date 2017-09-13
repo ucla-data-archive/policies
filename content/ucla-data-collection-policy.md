@@ -1,10 +1,10 @@
 ---
 title: UCLA Researh Data Collection Policy
 author:
--"Elizabeth Stephenson"
--"Dana Peterman"
+- "Elizabeth Stephenson"
+- "Dana Peterman"
 ---
-Other UCLA Collection Development Policies  
+Other UCLA Collection Development Policies
 [Open Scholarship and Collections Policy](http://www.library.ucla.edu/about/about-collections/open-scholarship-collections-policy)
 
 PURPOSE
