@@ -1,6 +1,6 @@
 ---
 title: "Motivating Data Services in the Data Archive"
-date: 2017-09-08
+date: "2017-09-08"
 ---
 
 >Data is the central currency of science, but the nature of scientific data has changed dramatically with the rapid pace of technology.
