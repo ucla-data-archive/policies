@@ -1,26 +1,35 @@
-Libby's SSDA Data Policy on GitHub
-What is DataDen?
+
+## What is DataDen?
+
 The UCLA DataDen repository (DataDen) allows data, text, software, scripts, data visualizations, etc., created from research projects at UCLA to be made publicly available, widely discoverable, linkable, and ultimately, reusable.  
 Data published in DataDen receives a Digital Object Identifier (DOI), a stable identifier for easy reference and citation, and is stored in a stable environment that complies with many funder and publisher requirements.  
 DataDen is an online repository, not a publisher. It provides a mechanism for UCLA research data to be shared with the world. DataDen is administered by the UCLA Library. 
-How do I know I am ready to deposit?
+
+## How do I know I am ready to deposit?
+
 You are a faculty member, staff member, or student and have a UCLA Logon ID
 Your data is complete and in its final state, and not expected to undergo revisions
 All confidential, restricted, legally protected, and/or private content (e.g. personally identifiable information) has been removed from your data, and the data is sufficiently anonymized/de-identified
 Your data is organized logically and coherently
 Your data is documented and described sufficiently for purposes of discovery and reuse
 Your have the rights to publish your data and/or have received permission from other rights-holders
-Submission policy
-Who may deposit?
+
+## Submission policy
+
+### Who may deposit?
 Items may only be deposited by accredited members of the institution, or their delegated agents.  
 The administrators of DataDen are responsible for vetting the eligibility of authors and depositors, the relevance of submissions to the repository, and the validity of the data layout and format. The validity and authenticity of the submissions are the sole responsibility of the depositor.
-What can be deposited?
+
+### What can be deposited?
 Data deposited in DataDen need not be exclusively created at UCLA, but at least one researcher must be affiliated with UCLA and have made, conceived, reduced to practice, authored or otherwise made a substantive intellectual contribution to the creation of the dataset.
+
 Data deposited into UCLA DataDen must either be generated through the course of a research project or deposited with an expectation that public availability will allow the dataset to be used for research purposes. Research data is defined through the federal Office of Management and Budget 2 CFR Part 215 – Uniform Administrative Requirements for Grants and Agreements with Institutions of Higher Education, Hospitals, and other Non-Profit Organizations (OMB Circular A-110) (https://www.whitehouse.gov/sites/default/files/omb/assets/omb/circulars/a110/2cfr215-0.pdf) as:
  "(i) Research data is defined as the recorded factual material commonly accepted in the (scientific) community as necessary to validate research findings, but not any of the following: preliminary analyses, drafts of (scientific) papers, plans for future research, peer reviews, or communications with colleagues. This 'recorded' material excludes physical objects (e.g., laboratory samples). Research data also do not include: 
 (A) Trade secrets, commercial information, materials necessary to be held confidential by a researcher until they are published, or similar information which is protected under law; and
 (B) Personnel and medical information and similar information the disclosure of which would constitute a clearly unwarranted invasion of personal privacy, such as information that could be used to identify a particular person in a research study."
-What are the restrictions?
+
+## What are the restrictions?
+
 Deposits must contain unrestricted content with no private, confidential, or otherwise legally restricted information.  If applicable, data should be de-identified and anonymized.
 The depositor should hold rights to the deposited data, or have permission of the owner to share it.
 Data files deposited in DataDen must include descriptive metadata to facilitate discovery.
