@@ -36,6 +36,6 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
     [params.logo]
     url = "data-archive.png"
-    width = 50
-    height = 50
+    width = 60
+    height = 60
     alt = "Logo"
