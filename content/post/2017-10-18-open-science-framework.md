@@ -15,6 +15,6 @@ Topics covered:
 * Pre-Analysis plans
 * Open source tools like the Center for Open Science’s Open Science Framework to easily implement these concepts in a scientific workflow.
 
-Date:Wednesday, October 18, 2017
+Date: Wednesday, October 18, 2017
 Time:9:00am - 12:00pm
 Categories:Open Science, Open Science Framework

@@ -1,5 +1,5 @@
 ---
-title: "Python Workshop - Masters of Social Science"
+title: "Python Workshop - Master of Social Science"
 date: 2017-11-16
 author: "Tim Dennis"
 ---
@@ -19,3 +19,5 @@ This lesson is an introduction to programming in Python for people with little o
 * Exploring built-in fuctions and libraries
 * Reading, manipulating and plotting tabular data
 * Writing functions
+
+Audience: closed to MASS students.
