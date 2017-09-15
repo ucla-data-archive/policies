@@ -4,6 +4,7 @@ date: 2017-10-18
 ---
 
 Location: Powell Library, CLICC Classroom C
+REGISTER NOW:  <https://goo.gl/v6HnEf>
 
 There are many actions researchers can take to increase the openness and reproducibility of their work. Please join us for a workshop, hosted by the Center for Open Science, to learn easy, practical steps researchers can take to increase the reproducibility of their work. The workshop will be hands-on. Using example studies, attendees will actively participate in creating a reproducible project from start to finish.
 
@@ -17,4 +18,3 @@ Topics covered:
 Date:Wednesday, October 18, 2017
 Time:9:00am - 12:00pm
 Categories:Open Science, Open Science Framework
-Begin Registration  
