@@ -1,6 +1,6 @@
 ---
 title: "R Workshop - Master of Social Science"
-date: 2017-11-02
+date: 2017-11-28
 ---
 
 R Workshop for the Masters of Social Science (MSS) program.
@@ -11,8 +11,8 @@ The goal of this lesson is to teach novice programmers to write modular code and
 
 Note that this workshop will focus on teaching the fundamentals of the programming language R, and will not teach statistical analysis.
 
-* Part 1 - 2017-11-02 - 10-1pm
-* Part 2 - 2017-11-07 - 10-1pm
+* Part 1 - 2017-11-28 - 10-1pm
+* Part 2 - 2017-11-30 - 10-1pm
 
 ### Syllabus
 
