@@ -22,4 +22,6 @@ This lesson is an introduction to programming in Python for people with little o
 * Reading, manipulating and plotting tabular data
 * Writing functions
 
+## Resources 
+
 Audience: closed to MASS students.
