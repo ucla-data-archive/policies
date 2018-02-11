@@ -1,7 +1,7 @@
 ---
 title: "File Organization"
 subtitle: "Naming"
-author: "Leight Phan, Jamie Jamison & Tim Dennis"
+author: "Leigh Phan, Jamie Jamison & Tim Dennis"
 date: "2018-02-13"
 output:
   xaringan::moon_reader:
