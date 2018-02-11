@@ -25,7 +25,7 @@ author: "Tim Dennis"
 ## Workshop Day 2: Feb 13, 2018
 
 ### Lesson Materials
-* [File Organization](../slides/01-file-naming.Rmd)
+* [File Organization](slides/01-file-naming.html)
   - File naming
 * [Data Organization in Spreadsheets](http://www.datacarpentry.org/spreadsheet-ecology-lesson/)
   - Priciples using spreadsheets
