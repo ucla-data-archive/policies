@@ -5,6 +5,7 @@ author: "Leight Phan, Jamie Jamison & Tim Dennis"
 date: "2018-02-13"
 output:
   xaringan::moon_reader:
+    css: ["default", "rladies", "rladies-fonts"]
     lib_dir: libs
     nature:
       highlightStyle: github
