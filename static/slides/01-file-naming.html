@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>File Organization</title>
+    <meta charset="utf-8">
+    <meta name="author" content="Leight Phan, Jamie Jamison &amp; Tim Dennis" />
+    <meta name="date" content="2018-02-13" />
+    <link href="libs/remark-css/default.css" rel="stylesheet" />
+    <link href="libs/remark-css/default-fonts.css" rel="stylesheet" />
+  </head>
+  <body>
+    <textarea id="source">
+class: center, middle, inverse, title-slide
+
+# File Organization
+## Naming
+### Leight Phan, Jamie Jamison &amp; Tim Dennis
+### 2018-02-13
+
+---
+
+
+
+
+## Why file organization is important? 
+
+![repo](../fig/stark-repro-research.png)
+
+---
+class: inverse, center, middle
+
+## Names matter
+
+---
+
+### NO
+```
+myabstract.docx
+Joe’s Filenames Use Spaces and Punctuation.xlsx
+figure 1.png
+fig 2.png
+JW7d^(2sl@deletethisandyourcareerisoverWx2*.txt
+```
+
+### YES
+```
+2014-06-08_abstract-for-sla.docx
+joes-filenames-are-getting-better.xlsx
+fig01_scatterplot-talk-length-vs-interest.png
+fig02_histogram-talk-attendance.png
+1986-01-28_raw-data-from-challenger-o-rings.txt
+```
+
+---
+
+## Three principles for (file) names:
+
+1. Machine readable
+1. Human readable
+1. Plays well with default ordering
+
+---
+## Awesome file names :)
+
+![Good file names](../fig/awesome_names.png)
+
+---
+class: inverse, center, middle
+
+## Machine readable
+
+---
+### Machine readable
+
+- Regular expression and globbing friendly
+    - Avoid spaces, punctuation, accented characters, case sensitivity
+    - Easy to compute on
+
+- Deliberate use of delimiters
+
+---
+
+### Globbing:
+(programming) A limited pattern matching technique using wildcards, less powerful than a regular expression.
+
+---
+
+**Excerpt of complete file listing**:
+
+&lt;img src="../fig/plasmid_names.png" width="500px" style="display: block; margin: auto;" /&gt;
+
+---
+
+**Example of globbing to narrow file listing**:
+
+&lt;img src="../fig/plasmid_names.png" width="500px" style="display: block; margin: auto;" /&gt;
+
+---
+
+**Same using Mac OS Finder search facilities**:
+
+&lt;img src="../fig/plasmid_mac_os_search.png" width="700px" style="display: block; margin: auto;" /&gt;
+
+---
+
+**Same using regex in `R`**:
+
+&lt;img src="../fig/plasmid_regex.png" width="600px" style="display: block; margin: auto;" /&gt;
+
+---
+
+### Punctuation
+
+Deliberate use of "-" and "_" allows recovery of meta-data from the filenames:
+
+- "_" underscore used to delimit units of meta-data I want later.
+- "-" hyphen used to delimit words so my eyes don't bleed.
+
+&lt;img src="../fig/plasmid_delimiters.png" width="600px" style="display: block; margin: auto;" /&gt;
+
+---
+
+&lt;img src="../fig/plasmid_delimiters_code.png" width="600px" style="display: block; margin: auto;" /&gt;
+
+This happens to be `R` but also possible in the `shell`, `Python`, etc.
+
+---
+### Recap: machine readable
+
+- Easy to search for files later
+- Easy to narrow file lists based on names
+- Easy to extract info from file names, e.g. by splitting
+- New to regular expressions and globbing? Be kind to yourself and avoid
+- Spaces in file names
+- Punctuation
+- Accented characters
+- Different files named `foo` and `Foo`
+
+---
+class: inverse, center, middle
+
+## Human readable
+---
+
+### Human readable
+
+- Name contains information about content
+- Connects to concept of a *slug* from **semantic URLs**
+
+---
+
+#### Example
+
+**Which set of file(name)s do you want at 3 a.m. before a deadline**?
+
+&lt;img src="../fig/human_readable_not_options.png" width="500px" style="display: block; margin: auto;" /&gt;
+
+---
+
+#### Embrace the *slug*
+
+&lt;img src="../fig/slug.jpg" width="400px" style="display: block; margin: auto;" /&gt;
+
+&lt;img src="../fig/slug_filenames.png" width="400px" style="display: block; margin: auto;" /&gt;
+
+---
+#### Recap: Human readable
+
+Easy to figure out what something is, based on its name
+
+---
+class: inverse, center, middle
+
+## Plays well with default ordering
+
+---
+
+### Plays well with default ordering
+
+- Put something numeric first
+- Use the ISO 8601 standard for dates (YYYY-MM-DD)
+- Left pad other numbers with zeros
+
+---
+
+## Examples
+
+---
+
+**Chronological order**:
+
+&lt;img src="../fig/chronological_order.png" width="600px" style="display: block; margin: auto;" /&gt;
+
+---
+**Logical order**: Put something numeric first
+
+&lt;img src="../fig/logical_order.png" width="600px" style="display: block; margin: auto;" /&gt;
+
+---
+
+**Dates**: Use the ISO 8601 standard for dates: YYYY-MM-DD
+
+&lt;img src="../fig/chronological_order.png" width="600px" style="display: block; margin: auto;" /&gt;
+
+---
+
+&lt;img src="../fig/map_mmddyyy.tiff" width="600px" style="display: block; margin: auto;" /&gt;
+
+[From twitter](https://twitter.com/donohoe/status/597876118688026624)
+
+---
+
+### Left pad other numbers with zeros
+
+&lt;img src="../fig/logical_order.png" width="600px" style="display: block; margin: auto;" /&gt;
+
+If you don’t left pad, you get this:
+
+```
+ 10_final-figs-for-publication.R
+ 1_data-cleaning.R
+ 2_fit-model.R
+```
+
+which is just sad :(
+
+---
+
+### Recap: Plays well with default ordering
+
+- Put something numeric first
+- Use the ISO 8601 standard for dates
+- Left pad other numbers with zeros
+
+---
+class: inverse, center, middle
+
+## Recap
+---
+
+### Three principles for (file) names
+
+1. Machine readable
+1. Human readable
+1. Plays well with default ordering
+
+---
+
+#### Pros
+
+- Easy to implement NOW
+- Payoffs accumulate as your skills evolve and projects get more complex.
+
+---
+
+Go forth and use awesome file names :)
+
+&lt;img src="../fig/chronological_order.png" width="600px" style="display: block; margin: auto;" /&gt;
+
+&lt;img src="../fig/logical_order.png" width="600px" style="display: block; margin: auto;" /&gt;
+    </textarea>
+<script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
+<script>var slideshow = remark.create({
+"highlightStyle": "github",
+"highlightLines": true,
+"countIncrementalSlides": false
+});
+if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {
+  window.dispatchEvent(new Event('resize'));
+});
+(function() {
+  var d = document, s = d.createElement("style"), r = d.querySelector(".remark-slide-scaler");
+  if (!r) return;
+  s.type = "text/css"; s.innerHTML = "@page {size: " + r.style.width + " " + r.style.height +"; }";
+  d.head.appendChild(s);
+})();</script>
+
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  tex2jax: {
+    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre']
+  }
+});
+</script>
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+(function () {
+  var script = document.createElement('script');
+  script.type = 'text/javascript';
+  script.src  = 'https://cdn.bootcss.com/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML';
+  if (location.protocol !== 'file:' && /^https?:/.test(script.src))
+    script.src  = script.src.replace(/^https?:/, '');
+  document.getElementsByTagName('head')[0].appendChild(script);
+})();
+</script>
+  </body>
+</html>
