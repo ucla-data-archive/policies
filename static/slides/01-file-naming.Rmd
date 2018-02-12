@@ -19,6 +19,15 @@ opts_chunk$set(echo = TRUE, fig.align = "center")
 options(htmltools.dir.version = FALSE)
 ```
 
+## Library Data Archive 
+
+* [Workshops](https://www.library.ucla.edu/location/social-science-data-archive) (Data Analysis, R, Python, Open Refine)
+* [Consultations](https://www.library.ucla.edu/location/social-science-data-archive) (Research with data, data analysis, coding, project and data mgmt)
+   * Tim <http://calendly.com/timdennis> (Data discovery, Open Science, GIT, Python, R, SQL, Stata)
+   * Jamie <http://calendly.com/jamiejamison> (Data Discovery, Data Management, Git, Python, SQL, SPSS)
+   * Leigh 
+
+---
 ## Why file organization is important? 
 
 ![repo](../fig/stark-repro-research.png)
