@@ -38,6 +38,11 @@ include_graphics("../fig/files_messy_tidy.png")
 include_graphics("../fig/workflow.png")
 ```
 
+???
+#### Slide 2
+1. Data, we are inundated, and there's more every day.
+2. We may be experiencing more data than we know how to work with effectively, reproducibly.
+* Opportunity to bring in any current topic or relevant news items.
 ---
 
 #### Face it...
@@ -48,6 +53,16 @@ include_graphics("../fig/workflow.png")
 - The files will have relationships to each other
 - It'll probably get complicated
 
+???
+1. With the advent of personal computing, old limits for how to name and organize directories are gone.
+* No limit anymore to 8.3 file-naming, for example.
+2. This makes it easier in some ways. We can name and organize directories and files anyway that we want to.
+3. But, for sharing data, and writing scripts that evaluate (or analyze) data in files automatically, files need to be
+    structured, organized, and methodically named.
+4. They also need to be organized and structured -- for one's mental sanity, and of course -- reproducibility!
+  1. This process can take some forethought
+    * either because you are lucky enough to be starting from scratch OR
+    * because you are trying to standardize an existing set of data files.
 ---
 
 #### Mighty weapon
@@ -69,6 +84,9 @@ Pick a strategy, any strategy, just pick one and *stick to it*!
 include_graphics("../fig/workflow_raw_data_to_data.png")
 ```
 
+???
+1. Consider the data-life-cycle. To conceptualize this, think of **inputs** (your raw data), and **outputs.**
+2. Your data life cycle can help you figure out how to store your raw data, your iterative analyses, and output like posters, manuscripts, and reports in a way that helps you keep track, now-and-in-the-future.
 ---
 
 #### Data $\rightarrow$ results
@@ -78,7 +96,9 @@ Pick a strategy, any strategy, just pick one and *stick to it*!
 ```{r, out.width = "400px", echo = FALSE}
 include_graphics("../fig/workflow_data_to_results_1.png")
 ```
-
+???
+1. No matter what you do, decide what to do and stick-to-it. Be consistent.
+  * Optional - may be a good place in-the-future, to modify the slide to contain something to show where you would keep a file that lists what you've done, what steps you've taken, to clean your data.
 ---
 
 #### Data $\rightarrow$ results
@@ -96,6 +116,9 @@ include_graphics("../fig/workflow_data_to_results_2.png")
 ```{r, out.width = "600px", echo = FALSE}
 include_graphics("../fig/sample_real_imperfect.png")
 ```
+
+???
+1. Example directory structure.
 
 ---
 
@@ -169,6 +192,8 @@ include_graphics("../fig/sample_expository.png")
 - File naming has inconsistencies due to three different people being involved.
 - Code and reports/figures all sit together because it’s just much easier that way w/ `knitr` & `RMarkdown`.
 
+???
+1. Challenges you will face - known issues to be aware of when organizing data and downstream derived files.
 ---
 
 #### Wins of this example
@@ -177,6 +202,10 @@ include_graphics("../fig/sample_expository.png")
 - The two other people (the post-doc whose project it is + the bioinformatician for that lab) were able to figure out what I did and decide which files they needed to look at, etc.
 
 GOOD ENOUGH!
+
+???
+1. Why should you bother standardizing your research workflow? What will you get for your organizational efforts?
+2. It's time well-spent, but there is a point of *good enough.*
 
 ---
 
@@ -190,6 +219,10 @@ GOOD ENOUGH!
 - Whether I move, copy, or symlink depends on the situation.
 - Whatever I did gets recorded in a `README` or in comments in my `R` code -- whatever makes it easiest for me to remind myself of a file's provenance, if it came from the outside world in a state that was not ready for programmatic analysis.
 
+???
+1. Another hint: **quarantine the crazy**. What?
+2. Create a space to put files and data with known issues.
+3. Create a README file or some other notes or code comments that track your changes to this messy data.
 ---
 
 #### Tip: give yourself less rope
@@ -198,7 +231,13 @@ GOOD ENOUGH!
 - Then I can't accidentally edit it.
 - It also makes it harder to do manual edits in a moment of weakness, when you know you should just add a line to your data cleaning script.
 
+???
+1. Learn how to revoke your write permissions to the '''raw''' data files.
+  - this prevents the creation of very sad data stories.
+  - remember there often is no "un-delete" so put measures into place to keep the nightmares away.
+  - (we are assuming here, that everyone knows how to do this, and understands *write permissions*).
 ---
+
 
 #### Tip: prose
 
@@ -219,6 +258,8 @@ Here’s how most data analyses go down in reality:
 - You make prettier tables and many figures based on the data & results accumulated by this point
 - Both the data file(s) and the code/scripts that acts on them reflect this progression
 
+???
+1. Review of the Data Analyses Life Cycle.
 ---
 
 #### Prepare data $\rightarrow$ Do stats $\rightarrow$ Make tables & figs
@@ -262,3 +303,7 @@ drwxr-xr-x   4 jenny  staff        136 Jun  3  2014 results
 ```{r, out.width = "500px", echo = FALSE}
 include_graphics("../fig/workflow.png")
 ```
+???
+Tips for instructors:
+
+- Remind them that they need to document as they go -- in past workshops most people got hung up on doing, then documenting, and then the second part of the exercises didn't have as much of a punch. More important that they document what they do (even if not all tasks) than that they finish.
