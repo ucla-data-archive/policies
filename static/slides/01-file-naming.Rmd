@@ -19,16 +19,16 @@ opts_chunk$set(echo = TRUE, fig.align = "center")
 options(htmltools.dir.version = FALSE)
 ```
 
-## Library Data Archive 
+## Library Data Archive
 
 * [Workshops](https://www.library.ucla.edu/location/social-science-data-archive) (Data Analysis, R, Python, Open Refine)
 * [Consultations](https://www.library.ucla.edu/location/social-science-data-archive) (Research with data, data analysis, coding, project and data mgmt)
    * Tim <http://calendly.com/timdennis> (Data discovery, Open Science, GIT, Python, R, SQL, Stata)
    * Jamie <http://calendly.com/jamiejamison> (Data Discovery, Data Management, Git, Python, SQL, SPSS)
-   * Leigh 
+   * Leigh
 
 ---
-## Why file organization is important? 
+## Why file organization is important?
 
 ![repo](../fig/stark-repro-research.png)
 
@@ -56,7 +56,13 @@ fig01_scatterplot-talk-length-vs-interest.png
 fig02_histogram-talk-attendance.png
 1986-01-28_raw-data-from-challenger-o-rings.txt
 ```
-
+???
+1. Our current software operating systems allow us to name files any way we want to.
+While this is fine for personal use (is it?), it does not support reproducibility (it causes lots of headaches).
+  - In the past, all file names were required to be 8.3 format.
+2. What do the good file names have in common? What do they facilitate?
+2. (Note that you can go past this slide very quickly if you did Activity 1 above).
+* Opportunity to bring in any current topic or relevant news items.
 ---
 
 ## Three principles for (file) names:
@@ -65,11 +71,24 @@ fig02_histogram-talk-attendance.png
 1. Human readable
 1. Plays well with default ordering
 
+???
+1. What to remember when deciding how to name files.
+  - well-structured filenames create contents that sort and
+  - patterns that facilitate finding your materials and
+  - make it easy to write scripts that automate data analysis and data transformations.
+2. Avoiding special characters and spaces in your file names means a machine can read and find the file.
+3. For sharing data, and writing scripts that evaluate (or analyze) data in files automatically, files need to be
+    structured, organized, and methodically named.
+4. File naming or renaming can take some forethought
+    * either because you are lucky enough to be starting from scratch OR
+    * because you are trying to standardize an existing set of data files.
+5. If you are starting from scratch, also you will want to document your decisions about how (files) will be named and directories structured.
 ---
 ## Awesome file names :)
 
 ![Good file names](../fig/awesome_names.png)
-
+???
+1. Note the file-naming pattern that means the files sort, and the information contained in the name.
 ---
 class: inverse, center, middle
 
@@ -83,12 +102,20 @@ class: inverse, center, middle
     - Easy to compute on
 
 - Deliberate use of delimiters
+???
+1. What exactly does it mean to make a file name **machine readable**?
+2. Avoiding spaces, punctuation marks, accented characters, and case sensitivity means you'll be able to use
+**regular expresssions** and scripts to edit your files and data in your files.
+3. Using **delimiters** like underscores and hyphens makes it easier to automate changes to your files.
 
 ---
 
 ### Globbing:
 (programming) A limited pattern matching technique using wildcards, less powerful than a regular expression.
 
+???
+1. At the command line: you can also use these well-structured file names for **finding** or
+grouping (globbing) a particular set of files in a directory.
 ---
 
 **Excerpt of complete file listing**:
