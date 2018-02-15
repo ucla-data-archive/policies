@@ -20,12 +20,13 @@ Comply with journal/funder data sharing policies
 
 ## Resources
 
-[Daniella's slides](/slides/UCLADataPubBootcamp_Feb2018.pptx)
-[Tim's slides](/slides/2018-02-12_datapub-bootcamp.html)
+*[Daniella's slides](/slides/UCLADataPubBootcamp_Feb2018.pptx)
+* [Tim's slides](/slides/2018-02-12_datapub-bootcamp.html)
 
 **Here are some other links we mentioned:**
 
 Anonymization:
+
 * BMJ info on anonymizing: http://www.bmj.com/content/340/bmj.c181.long
 * UK Data Service Guide: https://www.ukdataservice.ac.uk/manage-data/legal-ethical/anonymisation
 * Australian National Data Service Info: http://www.ands.org.au/working-with-data/sensitive-data#5
