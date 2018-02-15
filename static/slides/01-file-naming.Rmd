@@ -110,14 +110,6 @@ class: inverse, center, middle
 
 ---
 
-### Globbing:
-(programming) A limited pattern matching technique using wildcards, less powerful than a regular expression.
-
-???
-1. At the command line: you can also use these well-structured file names for **finding** or
-grouping (globbing) a particular set of files in a directory.
----
-
 **Excerpt of complete file listing**:
 
 ```{r, out.width = "500px", echo = FALSE}
