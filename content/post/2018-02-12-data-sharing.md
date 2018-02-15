@@ -7,7 +7,6 @@ author: "Tim Dennis"
 Date:Monday, February 12, 2018
 Time:10:00am - 12:00pm
 Location:Young Research Library, West Classroom
-Categories:Data
 
 Have you ever been asked to share your data by a journal editor or funder? Do you want to make your research more reproducible and data citable? This hands-on practical bootcamp will cover all of these topics and give you the skills to
 
