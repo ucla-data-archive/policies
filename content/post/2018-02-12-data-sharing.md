@@ -20,7 +20,7 @@ Comply with journal/funder data sharing policies
 
 ## Resources
 
-*[Daniella's slides](/slides/UCLADataPubBootcamp_Feb2018.pptx)
+* [Daniella's slides](/slides/UCLADataPubBootcamp_Feb2018.pptx)
 * [Tim's slides](/slides/2018-02-12_datapub-bootcamp.html)
 
 **Here are some other links we mentioned:**
