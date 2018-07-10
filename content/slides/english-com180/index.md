@@ -172,8 +172,8 @@ layout: false
 
 **These can also be used as finding aids**
 
-* List of data resources the library buys <https://ucla-data-archive.netlify.com/>
-Data Planet - <http://statisticaldatasets.data-planet.com/dataplanet> - Datasets from over 70 sources in many subjects
+List of data resources to which the library subscribes
+* Data Planet - <http://statisticaldatasets.data-planet.com/dataplanet> - Datasets from over 70 sources in many subjects
 * Statistical Insight - <http://uclibs.org/PID/51367>
 * Simply Map <http://www.simplymap.com/> - allows users to create maps and reports using demographic, business, and marketing data.
 * Social Explorer <http://www.socialexplorer.com/> - combines data from the U.S. Census of Population and Housing & the American Community Survey (ACS) with a user friendly interface, allowing the creation of maps & statistical table
@@ -184,7 +184,7 @@ Data Planet - <http://statisticaldatasets.data-planet.com/dataplanet> - Datasets
 ]
 .right-column[
 
-* IPUMS <https://usa.ipums.org/usa/>
+* IPUMS (Integrated Public Use Microdata Series) <https://usa.ipums.org/usa/>
    * Harmonized historic samples from:
        * US Census
        * International Countries Censuses
@@ -243,7 +243,8 @@ Data Planet - <http://statisticaldatasets.data-planet.com/dataplanet> - Datasets
 .right-column[
 
 * Tim Dennis <mailto:timdennis@ucla.edu>
-* Data Archive: <http://lib.ucsd.edu/lab>
+* Leigh Phan <mailto:leighphan@library.ucla.edu>
+* Data Archive: <https://www.library.ucla.edu/location/social-science-data-archive>
 * Workshops: <https://ucla-data-archive.netlify.com/>
 * These slides:
 ]
