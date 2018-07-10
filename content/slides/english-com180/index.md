@@ -226,6 +226,7 @@ List of data resources to which the library subscribes
 
 * Finding data
 * Data cleaning and preparation
+* Text analysis 
 * File format conversion
 * Statistical software support/instruction (Stata, R, Python)
 * Geospatial data/analysis
@@ -246,5 +247,6 @@ List of data resources to which the library subscribes
 * Leigh Phan <mailto:leighphan@library.ucla.edu>
 * Data Archive: <https://www.library.ucla.edu/location/social-science-data-archive>
 * Workshops: <https://ucla-data-archive.netlify.com/>
-* These slides:
+* These slides:  <https://ucla-data-archive.netlify.com/slides/english-com180/#1>
+  - You will need to accept unsafe scripts in the browser location bar to get the slides to render (working on fixing this)
 ]
