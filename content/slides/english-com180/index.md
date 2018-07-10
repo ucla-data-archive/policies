@@ -169,7 +169,6 @@ layout: false
 ##Some Data Resources
 ]
 .right-column[
-### Finding Data & Statistics
 
 **These can also be used as finding aids**
 
@@ -201,7 +200,9 @@ List of data resources to which the library subscribes
 
 * Data can come in many formats (xls, csv, txt, etc.)
 * Data from resources above can also come with setup files and codebooks
-*
+* You often will have to prepare the data for analysis (60-80% of the work)
+
+
 ---
 .left-column[
 ## Data sharing and publishing   
@@ -217,6 +218,7 @@ List of data resources to which the library subscribes
 * [Harvard Dataverse Network](https://dataverse.harvard.edu/)
 * [Roper Center](https://ropercenter.cornell.edu/)
 * [Zenodo](https://zenodo.org/)
+* A recommended list by subject from PLOS: <http://journals.plos.org/plosone/s/data-availability#loc-recommended-repositories>
 * Many others: <https://www.re3data.org/> lists over **2,000**
 ]
 ---
