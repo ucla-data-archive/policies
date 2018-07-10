@@ -196,10 +196,18 @@ Data Planet - <http://statisticaldatasets.data-planet.com/dataplanet> - Datasets
 * Many repositories <https://www.re3data.org/>
 ]
 ---
+#Using data
+
+* Data can come in many formats (xls, csv, txt, etc.)
+* Data from resources above can also come with setup files and codebooks
+*
+---
 .left-column[
-## Data Repositories
+## Data sharing and publishing   
 ]
 .right-column[
+* Funding agencies and journals are increasingly requiring researchers to share their data
+*
 * A data repository is a collection of datasets that have been deposited for storage and findability.
 * They are often discipline specific and/or affiliated with a research institution
 
@@ -210,10 +218,7 @@ Data Planet - <http://statisticaldatasets.data-planet.com/dataplanet> - Datasets
 * [Zenodo](https://zenodo.org/)
 * Many others: <https://www.re3data.org/> lists over **2,000**
 ]
-
 ---
-## Data sharing and publishing    
-
 .left-column[
 ##We Provide Consulting On:
 ]
