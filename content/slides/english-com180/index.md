@@ -7,7 +7,7 @@ name: inverse
 layout: true
 class: center, middle, inverse
 ---
-# Finding Data
+# Data Basics
 
 ### Leigh Phan <leighphan@g.ucla.edu> & Tim Dennis <timdennis@ucla.edu>
 
@@ -87,19 +87,6 @@ Most data sets require at least basic statistical analysis (Stata, SPSS, R, etc.
 ]
 ---
 .left-column[
-## Data Repositories
-]
-.right-column[
-* A data repository is a collection of datasets that have been deposited for storage and findability.
-* They are often discipline specific and/or affiliated with a research institution
-
-### Examples
-* [ICPSR](http://www.icpsr.umich.edu/icpsrweb/)
-* [Harvard Dataverse Network](https://dataverse.harvard.edu/)
-* [Roper Center](https://ropercenter.cornell.edu/)
-]
----
-.left-column[
 ## Recap
 ]
 .right-column[
@@ -107,13 +94,14 @@ Most data sets require at least basic statistical analysis (Stata, SPSS, R, etc.
 * Statistical analysis can be performed on data to show relationships among the variables collected.
 * Through secondary data analysis, many different researchers can re-use the same data set for different purposes.
 ]
----
 
+---
 name: inverse
 layout: true
 class: center, middle, inverse
+---
 
-## Finding Datasets
+# Collecting Data
 
 ---
 layout: false
@@ -125,7 +113,7 @@ layout: false
 1. Could it have been collected by a government agency?
 2. A nonprofit or nongovernmental organization?
 3. A private business or industry group?
-4. Academic researchers?
+4. Academic researchers, i.e. you?
 ]
 
 ---
@@ -136,7 +124,7 @@ layout: false
 ## Look for publications that use the kind of data you’re looking for and that cite the dataset
 
 * In other words, is the data you want mentioned in scholarly articles or government reports or some other source?
-* ICPSR Publications Search - Database of publications that use ICPSR data.
+* [ICPSR (Inter-university Consortium for Political and Social Research) Data-Related Publications Search](https://www.icpsr.umich.edu/icpsrweb/ICPSR/citations/index.jsp) - Database of publications that use ICPSR data.
 ]
 
 ---
@@ -144,17 +132,17 @@ layout: false
 ## Using Data
 ]
 .right-column[
-## How are you going to use the data?
+## What kind of analysis do you want to perform?
 * Preparing data for analysis is often 60-80% of work
 * Are you using a statistical software tool?
   - R, Stata, Python, Excel?
   - Some repositories provide setup files & clean data for specific programs
-* What kind of statistical tests do you want to perform?
-  -  Does the tool you want to use support the test?
+- Are more interested in qualitative methods?
+  - Text analysis, text classification, interviews, ethnographies
 ]
 ---
 .left-column[
-## Identify Variables
+## Identify Variables & Your Research Problem
 ]
 .right-column[
 ### What aspects of your topic are you interested in?
@@ -164,7 +152,7 @@ layout: false
 ]
 ---
 .left-column[
-##Find data
+##Find/collect data
 ]
 .right-column[
 ## Once you know that what you want exists, it's time to hunt it down
@@ -172,11 +160,12 @@ layout: false
 * Is it freely available on the web?
 * Or part of a package to which the library already subscribes?
 * Can it be requested directly from the researcher?
+* Will you need to interview or survey people?
 ]
 
 ---
 .left-column[
-##Data Resources
+##Some Data Resources
 ]
 .right-column[
 ### Finding Data & Statistics
@@ -185,8 +174,7 @@ layout: false
 
 * List of data resources the library buys <https://ucla-data-archive.netlify.com/>
 Data Planet - <http://statisticaldatasets.data-planet.com/dataplanet> - Datasets from over 70 sources in many subjects
-* Statisical Insight - <http://uclibs.org/PID/51367>
-*
+* Statistical Insight - <http://uclibs.org/PID/51367>
 * Simply Map <http://www.simplymap.com/> - allows users to create maps and reports using demographic, business, and marketing data.
 * Social Explorer <http://www.socialexplorer.com/> - combines data from the U.S. Census of Population and Housing & the American Community Survey (ACS) with a user friendly interface, allowing the creation of maps & statistical table
 ]
@@ -204,18 +192,28 @@ Data Planet - <http://statisticaldatasets.data-planet.com/dataplanet> - Datasets
 * ICPSR <http://www.icpsr.umich.edu/icpsrweb/landing.jsp>
    * variable level searching, publications searching, topical index
    * Over 9000 studies available for download in statistical packages formats (SAS, SPSS, Stata, R)
+* Roper <http://ropercenter.cornell.edu/> - Public opinion polls
 * Many repositories <https://www.re3data.org/>
 ]
-
 ---
 .left-column[
-### Data Meta Search (last resort)]
-.right-column[
-
-* Data Citation Index <http://uclibs.org/PID/261156>
-* SHARE  <https://osf.io/share/>
+## Data Repositories
 ]
+.right-column[
+* A data repository is a collection of datasets that have been deposited for storage and findability.
+* They are often discipline specific and/or affiliated with a research institution
+
+### Examples
+* [ICPSR](http://www.icpsr.umich.edu/icpsrweb/)
+* [Harvard Dataverse Network](https://dataverse.harvard.edu/)
+* [Roper Center](https://ropercenter.cornell.edu/)
+* [Zenodo](https://zenodo.org/)
+* Many others: <https://www.re3data.org/> lists over **2,000**
+]
+
 ---
+## Data sharing and publishing    
+
 .left-column[
 ##We Provide Consulting On:
 ]
