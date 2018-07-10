@@ -150,6 +150,7 @@ layout: false
   * The effects of **educational attainment** on **income**.
 * Factoring in geographies and time components can also help narrow down sources
 ]
+
 ---
 .left-column[
 ##Find/collect data
@@ -207,9 +208,9 @@ List of data resources to which the library subscribes
 ]
 .right-column[
 * Funding agencies and journals are increasingly requiring researchers to share their data
-*
 * A data repository is a collection of datasets that have been deposited for storage and findability.
 * They are often discipline specific and/or affiliated with a research institution
+* They typically will give the researcher a DOI, persistent link to their data
 
 ### Examples
 * [ICPSR](http://www.icpsr.umich.edu/icpsrweb/)
@@ -226,7 +227,7 @@ List of data resources to which the library subscribes
 
 * Finding data
 * Data cleaning and preparation
-* Text analysis 
+* Text analysis
 * File format conversion
 * Statistical software support/instruction (Stata, R, Python)
 * Geospatial data/analysis
