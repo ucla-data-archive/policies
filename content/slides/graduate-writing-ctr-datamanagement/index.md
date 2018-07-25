@@ -5,8 +5,9 @@ url: "/slides/graduate-writing-ctr-datamanagement/"
 ---
 
 layout: true
-class: center, middle, inverse
+
 ---
+
 
 # Data Management for Advanced Research: Managing Your Data
 
