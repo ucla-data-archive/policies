@@ -204,16 +204,39 @@ List of data resources to which the library subscribes
 
 
 ---
+name: inverse
+layout: true
+class: center, middle, inverse
+---
+
+## Data Sharing and Publishing  
+
+---
+layout:false
+
 .left-column[
-## Data sharing and publishing   
+## Why Share?    
 ]
 .right-column[
 * Funding agencies and journals are increasingly requiring researchers to share their data
 * A data repository is a collection of datasets that have been deposited for storage and findability.
 * They are often discipline specific and/or affiliated with a research institution
 * They typically will give the researcher a DOI, persistent link to their data
+]
 
+.left-column[
+## What about Sensitive Data
+]
+.right-column[
+
+### It is your responsibility to ensure your data are anonymized and de-identified, and have consent to be shared
+
+]
+---
+.left-column[
 ### Examples
+]
+.right-column[
 * [ICPSR](http://www.icpsr.umich.edu/icpsrweb/)
 * [Harvard Dataverse Network](https://dataverse.harvard.edu/)
 * [Roper Center](https://ropercenter.cornell.edu/)
@@ -246,10 +269,9 @@ List of data resources to which the library subscribes
 ]
 .right-column[
 
-* Tim Dennis <mailto:timdennis@ucla.edu>
-* Leigh Phan <mailto:leighphan@library.ucla.edu>
+* Tim Dennis <mailto:timdennis@ucla.edu> [Schedule a meeting](https://calendly.com/timdennis)
+* Leigh Phan <mailto:leighphan@library.ucla.edu> [Schedule a meeting](http://calendly.com/leighphan)
 * Data Archive: <https://www.library.ucla.edu/location/social-science-data-archive>
 * Workshops: <https://ucla-data-archive.netlify.com/>
 * These slides:  <https://ucla-data-archive.netlify.com/slides/english-com180/#1>
-  - You will need to accept unsafe scripts in the browser location bar to get the slides to render (working on fixing this)
 ]
