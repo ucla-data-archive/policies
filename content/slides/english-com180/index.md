@@ -223,15 +223,6 @@ layout:false
 * They are often discipline specific and/or affiliated with a research institution
 * They typically will give the researcher a DOI, persistent link to their data
 ]
-
-.left-column[
-## What about Sensitive Data
-]
-.right-column[
-
-### It is your responsibility to ensure your data are anonymized and de-identified, and have consent to be shared
-
-]
 ---
 .left-column[
 ### Examples
@@ -243,6 +234,23 @@ layout:false
 * [Zenodo](https://zenodo.org/)
 * A recommended list by subject from PLOS: <http://journals.plos.org/plosone/s/data-availability#loc-recommended-repositories>
 * Many others: <https://www.re3data.org/> lists over **2,000**
+]
+---
+.left-column[
+## What about Sensitive Data
+]
+.right-column[
+
+### It is your responsibility to ensure your data are anonymized and de-identified, and have consent to be shared
+
+]
+---
+.left-column[ ### Resources on anonymizing data
+]
+.right-column[
+* BMJ info on anonymizing: http://www.bmj.com/content/340/bmj.c181.long
+* UK Data Service Guide: https://www.ukdataservice.ac.uk/manage-data/legal-ethical/anonymisation
+* Australian National Data Service Info: http://www.ands.org.au/working-with-data/sensitive-data#5
 ]
 ---
 .left-column[
