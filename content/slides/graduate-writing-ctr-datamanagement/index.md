@@ -5,7 +5,7 @@ url: "/slides/graduate-writing-ctr-datamanagement/"
 ---
 
 layout: true
-class: inverse
+
 ---
 
 
