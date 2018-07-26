@@ -65,7 +65,7 @@ The Data Archive provides data services that are tied to the data life-cycle.
 
 ##### [illustration: DatOne Data Life Cycle](https://www.dataone.org/data-life-cycle)
 
-.footnote[Graduate Writing Center    Summer 2018]
+
 ---
 
 
