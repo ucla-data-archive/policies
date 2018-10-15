@@ -1,5 +1,5 @@
 ---
-title: 'English Composition 180 - Data Basics'
+title: 'Finding and Using Data'
 date: "2018-10-15
 url: "/slides/MaSS_2018/"
 ---
