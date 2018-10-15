@@ -89,11 +89,11 @@ The Data Science Center provides services that are tied to the data life-cycle.
 
 * Provide training: [Software/Library carpentry](https://software-carpentry.org/) / [Software Carpentry R-language](https://www.library.ucla.edu/events/software-carpentry-workshop-r-version)   
 ![illustration: Carpentry-logos](./images/carpentrys-logo.jpg "carpentry-logos")
-
 * Host events and lectures: [Data Archive News and Upcoming Events](https://www.library.ucla.edu/location/data-science-center)
 
 * Statistical Consulting:
   * [Data Science Center Statistical Consultant](https://www.library.ucla.edu/location/data-science-center/our-team)
+  
   
 ---
 
