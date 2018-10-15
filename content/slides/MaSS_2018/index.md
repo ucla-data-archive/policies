@@ -6,7 +6,7 @@ url: "/slides/MaSS_2018/"
 
 class: center, middle
 
-# UCLA Library Data Science Center  https://ucla-data-archive.netlify.com/slides/mass_2018/#1
+# UCLA Library Data Science Center  
 .center[##### *Doing Data since 1961*]  
 
 [[Slides: https://ucla-data-archive.netlify.com/slides/mass_2018/#1](https://ucla-data-archive.netlify.com/slides/mass_2018/#1)]
