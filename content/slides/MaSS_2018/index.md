@@ -1,6 +1,6 @@
 ---
-title: 'Finding and Using Data'
-date: "2018-10-15
+title: "Finding and Using Data"
+date: "2018-10-15"
 url: "/slides/MaSS_2018/"
 ---
 
