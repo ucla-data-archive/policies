@@ -1,3 +1,9 @@
+---
+title: 'English Composition 180 - Data Basics'
+date: "2018-10-15
+url: "/slides/MaSS_2018/"
+---
+
 class: center, middle
 
 # UCLA Library Data Science Center
