@@ -6,7 +6,8 @@ author: "Tim Dennis"
 
 ## Resources
 
-* Slides
+* Natasha's Slides: 
+* [23 (research data) Things](https://www.ands.org.au/working-with-data/skills/23-research-data-things)
 
 ## Event Details
 
@@ -16,7 +17,7 @@ Please join us for the following talk given by [Natasha Simons](orcid.org/0000-
 
 Refreshments will be served. 
 
-What: *Developing a (FAIR) skills program to facilitate data intensive research*
-Where: CLICC Classroom C, 3rd Floor, Powell  
-Who: Natasha Simons  
+What: *Developing a (FAIR) skills program to facilitate data intensive research*  
+Where: CLICC Classroom C, 3rd Floor, Powell   
+Who: Natasha Simons   
 Bio: [Natasha Simons](orcid.org/0000-0003-0635-1998) is the Associate Director, Skilled Workforce with the Australian Research Data Commons. She works with a variety of people and groups to improve data management skills, platforms, policies and practices. With a background in libraries, IT and eResearch, Natasha has a history of developing policy, technical infrastructure and skills to support research and researchers. She is an Industry Fellow with The University of Queensland in Brisbane, Australia.
