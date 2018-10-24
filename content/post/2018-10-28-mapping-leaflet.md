@@ -1,7 +1,7 @@
 ---
 title: "Mapping with Leaflet"
 date: 2018-10-28
-author: Leigh Phan
+author: ["Leigh Phan", "Tim Dennis"]
 ---
 
 Leaflet is a ...
@@ -14,7 +14,7 @@ Leaflet is a ...
 
 ## First map
 
-1. instructions
+1. Instruction
 2. Navigate to your working folder. Use the `terminal` on Mac and `conda console` on windows.
 3. Run `python -m http.server` - this should start a server so you will see the server start on the command line
 4. Now from your browser open ....
