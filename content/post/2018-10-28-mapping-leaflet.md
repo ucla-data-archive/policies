@@ -13,11 +13,10 @@ Leaflet is an open source tool for developing interactive maps on the web based 
     Download the [project folder](https://programminghistorian.org/assets/using-javascript-to-create-maps/using-javascript-to-create-maps.zip) for the class
 
 Instruction
-    Using the `terminal` on Mac and `conda console` on windows, navigate to your working folder. You can do this by entering the command 'cd' followed by the path of your working folder.
-    For example: `'cd /Users/YourName/Documents/using-javascript-to-create-maps'`
-    Once in your working folder, run `python -m http.server`. This should start a local server to host a Leaflet map, so you will see the server start on the command line.
-    During this process, the command line should display text that appears like: "Serving HTTP on 0.0.0.0 port 8000 (http://0.0.0.0:8000/) ..."
-      This command line window needs to remain open in order to host and display the map in the browser.
+    * Using the `terminal` on Mac and `conda console` on windows, navigate to your working folder. You can do this by entering the command 'cd' followed by the path of your working folder.
+    * For example: `'cd /Users/YourName/Documents/using-javascript-to-create-maps'`
+    * Once in your working folder, run `python -m http.server`. This should start a local server to host a Leaflet map, so you will see the server start on the command line. During this process, the command line should display text that appears like: "Serving HTTP on 0.0.0.0 port 8000 (http://0.0.0.0:8000/) ..."
+    This command line window needs to remain open in order to host and display the map in the browser.
       
   ## First Map
     Now from your browser, open the file in your Leaflet directory 'index.html'
