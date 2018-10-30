@@ -26,3 +26,12 @@ Leaflet is an open source tool for developing interactive maps on the web based 
         * what do the pop-ups lead to
         * displays on the sidebar
   Going through each folder in project directory
+
+
+
+## Hosting your webmap
+If you need a site to host your webmap, several static site generators are available.
+* [Forestry.io](https://forestry.io/)
+* [GitHub Pages](https://pages.github.com/)
+* [Jekyll](https://jekyllrb.com/)
+* [Hugo](https://gohugo.io/)
