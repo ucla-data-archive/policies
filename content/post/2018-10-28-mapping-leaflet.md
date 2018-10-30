@@ -18,7 +18,7 @@ Leaflet is an open source tool for developing interactive maps on the web based 
 - Once in your working folder, run `python -m http.server`. This should start a local server to host a Leaflet map, so you will see the server start on the command line. During this process, the command line should display text that appears like: "Serving HTTP on 0.0.0.0 port..."
       - This command line window needs to remain open in order to host and display the map in the browser.
       
-  ## First Map
+## First Map
   Now from your browser, open the file in your Leaflet directory 'index.html'. Once open, 'index.html' displays our Leaflet map!
    - How did we do this, and what is this map displaying? Let's explore the map.
         * clusters of location points
