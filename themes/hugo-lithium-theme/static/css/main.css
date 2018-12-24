@@ -61,7 +61,7 @@ code {
 .nav-logo img {
   display: block;
   max-height: 40px;
-  
+  width: auto;
 }
 
 .nav-links {
