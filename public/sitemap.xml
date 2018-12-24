@@ -3,13 +3,128 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/2018/10/28/mapping-with-leaflet/</loc>
+    <lastmod>2018-10-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2018/10/16/introduction-to-r/</loc>
+    <lastmod>2018-10-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/slides/mass_2018/</loc>
+    <lastmod>2018-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2018/07/26/developing-a-fair-skills-program-to-facilitate-data-intensive-research/</loc>
+    <lastmod>2018-07-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/slides/graduate-writing-ctr-datamanagement/</loc>
+    <lastmod>2018-07-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/slides/english-com180/</loc>
+    <lastmod>2018-07-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2018/02/27/open-refine-meetup/</loc>
+    <lastmod>2018-02-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2018/02/15/programming-pizza-party-python-r-data/</loc>
+    <lastmod>2018-02-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2018/02/14/data-and-donuts/</loc>
+    <lastmod>2018-02-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2018/02/13/data-management-file-organization/</loc>
+    <lastmod>2018-02-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2018/02/12/data-sharing-bootcamp/</loc>
+    <lastmod>2018-02-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2018/02/09/issues-in-digital-archiving-data-management/</loc>
+    <lastmod>2018-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2018/02/06/data-cleaning-with-r/</loc>
+    <lastmod>2018-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2018/02/06/sustainable-la-ursp-data-workshops-env-188b/</loc>
+    <lastmod>2018-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2018/01/30/data-visualization-with-r/</loc>
+    <lastmod>2018-01-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2018/01/25/introduction-to-r/</loc>
+    <lastmod>2018-01-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2017/11/28/r-workshop-master-of-social-science/</loc>
+    <lastmod>2017-11-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2017/11/16/python-workshop-master-of-social-science/</loc>
+    <lastmod>2017-11-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2017/11/06/data-archive-class-presentation-pp290/</loc>
+    <lastmod>2017-11-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2017/11/02/sql-workshop-master-of-social-science/</loc>
+    <lastmod>2017-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2017/10/27/hands-on-introduction-to-literate-programming/</loc>
+    <lastmod>2017-10-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/2017/10/18/open-science-framework-for-research-workflows/</loc>
     <lastmod>2017-10-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/2017/10/16/software-carpentry---ucla/</loc>
+    <loc>/2017/10/17/data-archive-class-presentation-for-masters-of-social-science/</loc>
+    <lastmod>2017-10-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2017/10/16/software-carpentry-ucla/</loc>
     <lastmod>2017-10-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2017/10/05/data-archive-class-presentation-psych-m144-stats-m154/</loc>
+    <lastmod>2017-10-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -23,8 +138,18 @@
   </url>
   
   <url>
+    <loc>/2017/09/22/open-refine-part-2-and-byod/</loc>
+    <lastmod>2017-09-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/2017/09/07/using-data-effectively-carpentries-teach-tools-and-best-practices/</loc>
     <lastmod>2017-09-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2017/09/06/literate-programming-in-r/</loc>
+    <lastmod>2017-09-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -38,13 +163,27 @@
   </url>
   
   <url>
+    <loc>/1/01/01/</loc>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>/code-of-conduct/</loc>
+  </url>
+  
+  <url>
     <loc>/post/</loc>
-    <lastmod>2017-10-18T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/slides/</loc>
+    <lastmod>2018-10-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -55,8 +194,12 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2017-10-18T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/ucla-data-collection-policy/</loc>
   </url>
   
 </urlset>

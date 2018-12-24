@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Slides on UCLA Library Data Archive</title>
+    <link>/slides/</link>
+    <description>Recent content in Slides on UCLA Library Data Archive</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/slides/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Finding and Using Data</title>
+      <link>/slides/mass_2018/</link>
+      <pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/slides/mass_2018/</guid>
+      <description>class: center, middle
+UCLA Library Data Science Center .center[##### Doing Data since 1961]
+[Slides: https://ucla-data-archive.netlify.com/slides/mass_2018/#1] Today&amp;rsquo;s Topics  UCLA Library Data Science Center: who we are and what we do How to search for and access data for research Resources, tools and support available to students at UCLA Publishing and Data Management Plans  UCLA Library Data Science Center 21536 Charles E. Young Research Library (YRL) [https://www.library.ucla.edu/location/data-science-center] Data Life Cycle The Data Science Center provides services that are tied to the data life-cycle.</description>
+    </item>
+    
+    <item>
+      <title>Graduate Writing Center - Data Management</title>
+      <link>/slides/graduate-writing-ctr-datamanagement/</link>
+      <pubDate>Wed, 25 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/slides/graduate-writing-ctr-datamanagement/</guid>
+      <description>layout: true
+Data Management for Advanced Research: Managing Your Data .footnote[Graduate Writing Center Summer 2018] Today&amp;rsquo;s Topics  UCLA Library Data Science Center / Social Science Data Archive
+ The role of data in your research
+ Reference and Data Discovery
+ Resources, tools and support available to students at UCLA
+ Publishing and Data Management Plans
+  .footnote[Graduate Writing Center Summer 2018] UCLA Library Data Science Center (formally: Social Science Data Archive) YRL 20136, 2nd floor  Part of UCLA since 1961</description>
+    </item>
+    
+    <item>
+      <title>English Composition 180 - Data Basics</title>
+      <link>/slides/english-com180/</link>
+      <pubDate>Tue, 10 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/slides/english-com180/</guid>
+      <description>name: inverse layout: true
+class: center, middle, inverse Data Basics Leigh Phan leighphan@g.ucla.edu &amp;amp; Tim Dennis timdennis@ucla.edu layout: false .left-column[
+What is Data? ] .right-column[ *da·ta noun plural but singular or plural in construction, often attributive \ˈdā-tə, ˈda- also ˈdä-* 1. factual information (as measurements or statistics) used as a basis for reasoning, discussion, or calculation 2. information output by a sensing device or organ that includes both useful and irrelevant or redundant information and must be processed to be meaningful 3.</description>
+    </item>
+    
+  </channel>
+</rss>

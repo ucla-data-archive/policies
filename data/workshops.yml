@@ -1,0 +1,58 @@
+workshops:
+-
+  who: Kristian Allen, Scott Friedman, Deidre Whitmore
+  title: Sofware Carpentry Workshop
+  help: Tim Dennis, Jamie Jamison,
+  venue: IDRE Portal
+  country: us
+  latitude: 35.8486105
+  longitude: -86.3648813
+  workshop: two-day
+  blogs:
+  lessons: Bash Shell, Git, Python
+  number:
+  notes:
+  site: https://libcce.github.io/2019-01-07-MTSU/
+  libcal-id:
+  eventbrite-id:
+  human_date: 9-10 January 2019
+  start_date: 2019-01-09
+  end_date: 2019-01-10
+  start_time: 9:00 AM
+  end_time: 4:30 PM
+  tags: [swc, python, git, bash]
+
+-
+  who: Tim Dennis
+  title: Intro to R
+  help: Jamie Jamison, Leigh Phan, Kristian Allen
+  venue: West Classroom
+  country: us
+  latitude:
+  longitude:
+  workshop: short-courses
+  blogs:
+  lessons:
+
+-
+  title:
+  who:
+  help:
+  venue:
+  country:
+  latitude:
+  longitude:
+  workshop:
+  blogs:
+  lessons:
+  number:
+  lecture_notes:
+  site:
+  libcal_id:
+  eventbrite_id:
+  human_date: 9-10 January 2019
+  start_date: 2019-01-09
+  end_date: 2019-01-10
+  start_time: 9:00 AM
+  end_time: 4:30 PM
+  tags: [swc, python, git, bash]

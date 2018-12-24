@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>File Organization</title>
+    <meta charset="utf-8">
+    <meta name="author" content="Leigh Phan, Jamie Jamison &amp; Tim Dennis" />
+    <meta name="date" content="2018-02-13" />
+    <link href="libs/remark-css/default.css" rel="stylesheet" />
+    <link href="libs/remark-css/rladies.css" rel="stylesheet" />
+    <link href="libs/remark-css/rladies-fonts.css" rel="stylesheet" />
+  </head>
+  <body>
+    <textarea id="source">
+class: center, middle, inverse, title-slide
+
+# File Organization
+## Naming
+### Leigh Phan, Jamie Jamison &amp; Tim Dennis
+### 2018-02-13
+
+---
+
+
+
+
+## Library Data Archive
+
+* [Workshops](https://www.library.ucla.edu/location/social-science-data-archive) (Data Analysis, R, Python, Open Refine)
+* [Consultations](https://www.library.ucla.edu/location/social-science-data-archive) (Research with data, data analysis, coding, project and data mgmt)
+   * Tim &lt;http://calendly.com/timdennis&gt; (Data discovery, Open Science, GIT, Python, R, SQL, Stata)
+   * Jamie &lt;http://calendly.com/jamiejamison&gt; (Data Discovery, Data Management, Git, Python, SQL, SPSS)
+   * Leigh
+
+---
+## Why file organization is important?
+
+![repo](../fig/stark-repro-research.png)
+
+---
+class: inverse, center, middle
+
+## Names matter
+
+---
+
+### NO
+```
+myabstract.docx
+Joe’s Filenames Use Spaces and Punctuation.xlsx
+figure 1.png
+fig 2.png
+JW7d^(2sl@deletethisandyourcareerisoverWx2*.txt
+```
+
+### YES
+```
+2014-06-08_abstract-for-sla.docx
+joes-filenames-are-getting-better.xlsx
+fig01_scatterplot-talk-length-vs-interest.png
+fig02_histogram-talk-attendance.png
+1986-01-28_raw-data-from-challenger-o-rings.txt
+```
+???
+1. Our current software operating systems allow us to name files any way we want to.
+While this is fine for personal use (is it?), it does not support reproducibility (it causes lots of headaches).
+  - In the past, all file names were required to be 8.3 format.
+2. What do the good file names have in common? What do they facilitate?
+2. (Note that you can go past this slide very quickly if you did Activity 1 above).
+* Opportunity to bring in any current topic or relevant news items.
+---
+
+## Three principles for (file) names:
+
+1. Machine readable
+1. Human readable
+1. Plays well with default ordering
+
+???
+1. What to remember when deciding how to name files.
+  - well-structured filenames create contents that sort and
+  - patterns that facilitate finding your materials and
+  - make it easy to write scripts that automate data analysis and data transformations.
+2. Avoiding special characters and spaces in your file names means a machine can read and find the file.
+3. For sharing data, and writing scripts that evaluate (or analyze) data in files automatically, files need to be
+    structured, organized, and methodically named.
+4. File naming or renaming can take some forethought
+    * either because you are lucky enough to be starting from scratch OR
+    * because you are trying to standardize an existing set of data files.
+5. If you are starting from scratch, also you will want to document your decisions about how (files) will be named and directories structured.
+---
+## Awesome file names :)
+
+![Good file names](../fig/awesome_names.png)
+???
+1. Note the file-naming pattern that means the files sort, and the information contained in the name.
+---
+class: inverse, center, middle
+
+## Machine readable
+
+---
+### Machine readable
+
+- Regular expression and globbing friendly
+    - Avoid spaces, punctuation, accented characters, case sensitivity
+    - Easy to compute on
+
+- Deliberate use of delimiters
+???
+1. What exactly does it mean to make a file name **machine readable**?
+2. Avoiding spaces, punctuation marks, accented characters, and case sensitivity means you'll be able to use
+**regular expresssions** and scripts to edit your files and data in your files.
+3. Using **delimiters** like underscores and hyphens makes it easier to automate changes to your files.
+
+---
+
+### Globbing:
+(programming) A limited pattern matching technique using wildcards, less powerful than a regular expression.
+
+???
+1. At the command line: you can also use these well-structured file names for **finding** or
+grouping (globbing) a particular set of files in a directory.
+---
+
+**Excerpt of complete file listing**:
+
+&lt;img src="../fig/plasmid_names.png" width="500px" style="display: block; margin: auto;" /&gt;
+
+---
+
+**Example of globbing to narrow file listing**:
+
+&lt;img src="../fig/plasmid_names.png" width="500px" style="display: block; margin: auto;" /&gt;
+
+---
+
+**Same using Mac OS Finder search facilities**:
+
+&lt;img src="../fig/plasmid_mac_os_search.png" width="700px" style="display: block; margin: auto;" /&gt;
+
+---
+
+**Same using regex in `R`**:
+
+&lt;img src="../fig/plasmid_regex.png" width="600px" style="display: block; margin: auto;" /&gt;
+
+---
+
+### Punctuation
+
+Deliberate use of "-" and "_" allows recovery of meta-data from the filenames:
+
+- "_" underscore used to delimit units of meta-data I want later.
+- "-" hyphen used to delimit words so my eyes don't bleed.
+
+&lt;img src="../fig/plasmid_delimiters.png" width="600px" style="display: block; margin: auto;" /&gt;
+
+---
+
+&lt;img src="../fig/plasmid_delimiters_code.png" width="600px" style="display: block; margin: auto;" /&gt;
+
+This happens to be `R` but also possible in the `shell`, `Python`, etc.
+
+---
+### Recap: machine readable
+
+- Easy to search for files later
+- Easy to narrow file lists based on names
+- Easy to extract info from file names, e.g. by splitting
+- New to regular expressions and globbing? Be kind to yourself and avoid
+- Spaces in file names
+- Punctuation
+- Accented characters
+- Different files named `foo` and `Foo`
+
+---
+class: inverse, center, middle
+
+## Human readable
+---
+
+### Human readable
+
+- Name contains information about content
+- Connects to concept of a *slug* from **semantic URLs**
+
+---
+
+#### Example
+
+**Which set of file(name)s do you want at 3 a.m. before a deadline**?
+
+&lt;img src="../fig/human_readable_not_options.png" width="500px" style="display: block; margin: auto;" /&gt;
+
+---
+
+#### Embrace the *slug*
+
+&lt;img src="../fig/slug.jpg" width="400px" style="display: block; margin: auto;" /&gt;
+
+&lt;img src="../fig/slug_filenames.png" width="400px" style="display: block; margin: auto;" /&gt;
+
+---
+#### Recap: Human readable
+
+Easy to figure out what something is, based on its name
+
+---
+class: inverse, center, middle
+
+## Plays well with default ordering
+
+---
+
+### Plays well with default ordering
+
+- Put something numeric first
+- Use the ISO 8601 standard for dates (YYYY-MM-DD)
+- Left pad other numbers with zeros
+
+---
+
+## Examples
+
+---
+
+**Chronological order**:
+
+&lt;img src="../fig/chronological_order.png" width="600px" style="display: block; margin: auto;" /&gt;
+
+---
+**Logical order**: Put something numeric first
+
+&lt;img src="../fig/logical_order.png" width="600px" style="display: block; margin: auto;" /&gt;
+
+---
+
+**Dates**: Use the ISO 8601 standard for dates: YYYY-MM-DD
+
+&lt;img src="../fig/chronological_order.png" width="600px" style="display: block; margin: auto;" /&gt;
+
+---
+
+&lt;img src="../fig/map_mmddyyy.tiff" width="600px" style="display: block; margin: auto;" /&gt;
+
+[From twitter](https://twitter.com/donohoe/status/597876118688026624)
+
+---
+
+### Left pad other numbers with zeros
+
+&lt;img src="../fig/logical_order.png" width="600px" style="display: block; margin: auto;" /&gt;
+
+If you don’t left pad, you get this:
+
+```
+ 10_final-figs-for-publication.R
+ 1_data-cleaning.R
+ 2_fit-model.R
+```
+
+which is just sad :(
+
+---
+
+### Recap: Plays well with default ordering
+
+- Put something numeric first
+- Use the ISO 8601 standard for dates
+- Left pad other numbers with zeros
+
+---
+class: inverse, center, middle
+
+## Recap
+---
+
+### Three principles for (file) names
+
+1. Machine readable
+1. Human readable
+1. Plays well with default ordering
+
+---
+
+#### Pros
+
+- Easy to implement NOW
+- Payoffs accumulate as your skills evolve and projects get more complex.
+
+---
+
+Go forth and use awesome file names :)
+
+&lt;img src="../fig/chronological_order.png" width="600px" style="display: block; margin: auto;" /&gt;
+
+&lt;img src="../fig/logical_order.png" width="600px" style="display: block; margin: auto;" /&gt;
+    </textarea>
+<script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
+<script>var slideshow = remark.create({
+"highlightStyle": "github",
+"highlightLines": true,
+"countIncrementalSlides": false
+});
+if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {
+  window.dispatchEvent(new Event('resize'));
+});
+(function() {
+  var d = document, s = d.createElement("style"), r = d.querySelector(".remark-slide-scaler");
+  if (!r) return;
+  s.type = "text/css"; s.innerHTML = "@page {size: " + r.style.width + " " + r.style.height +"; }";
+  d.head.appendChild(s);
+})();</script>
+
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  tex2jax: {
+    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre']
+  }
+});
+</script>
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+(function () {
+  var script = document.createElement('script');
+  script.type = 'text/javascript';
+  script.src  = 'https://cdn.bootcss.com/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML';
+  if (location.protocol !== 'file:' && /^https?:/.test(script.src))
+    script.src  = script.src.replace(/^https?:/, '');
+  document.getElementsByTagName('head')[0].appendChild(script);
+})();
+</script>
+  </body>
+</html>

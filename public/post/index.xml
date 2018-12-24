@@ -6,10 +6,202 @@
     <description>Recent content in Posts on UCLA Library Data Archive</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mapping with Leaflet</title>
+      <link>/2018/10/28/mapping-with-leaflet/</link>
+      <pubDate>Sun, 28 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/10/28/mapping-with-leaflet/</guid>
+      <description>Leaflet is an open source tool for developing interactive maps on the web based on JavaScript.
+Setup  Download Anaconda Python https://www.anaconda.com/download/ - Anaconda python distribution is a package of Python programming language with the most important data science tools. This also includes a web server we will use to run our Leaflet maps. Download and unzip Leaflet https://leafletjs.com/download.html. Put somewhere you can find easily (your desktop) Download the project folder for the class  Instruction  Using the terminal on Mac and conda console on windows, navigate to your working folder.</description>
+    </item>
+    
+    <item>
+      <title>Introduction to R</title>
+      <link>/2018/10/16/introduction-to-r/</link>
+      <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/10/16/introduction-to-r/</guid>
+      <description>Info Date: Thursday, Oct. 16, 2018
+Time: 9:00am - 12:00pm
+Location: Young Research Library, West Classroom
+Categories: R (programming language)
+Calendar: https://calendar.library.ucla.edu/event/4582641
+This hands-on workshop will cover basic concepts and tools related to using R in the context of data analysis. Participants will be encouraged to help one another and to apply what they have learned to their own research problems. We&amp;rsquo;ll cover:
+ A basic introduction to R and RStudio Visualizing your data with ggplot2, the most popular graphing package in R Tidying and transforming data for analysis  You&amp;rsquo;ll come out of the course with a good foundation on the most important tools in R for working and communicating with data.</description>
+    </item>
+    
+    <item>
+      <title>Developing a (FAIR) skills program to facilitate data intensive research</title>
+      <link>/2018/07/26/developing-a-fair-skills-program-to-facilitate-data-intensive-research/</link>
+      <pubDate>Thu, 26 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/07/26/developing-a-fair-skills-program-to-facilitate-data-intensive-research/</guid>
+      <description>Resources  Natasha&amp;rsquo;s Slides: 23 (research data) Things  Event Details Please join us for the following talk given by Natasha Simons, the Associate Director, Skilled Workforce with the Australian Research Data Commons (ARDC). She&amp;rsquo;ll deliver a presentation entitled &amp;ldquo;Developing a (FAIR) skills program to facilitate data intensive research&amp;rdquo;. The following is a description of topic of her talk.  Uptake of Research Data Management services and infrastructure depends on skilled multi-disciplinary teams at universities and within research projects that cut across multiple institutions and research disciplines.</description>
+    </item>
+    
+    <item>
+      <title>Open Refine Meetup</title>
+      <link>/2018/02/27/open-refine-meetup/</link>
+      <pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/02/27/open-refine-meetup/</guid>
+      <description>Date:Tuesday, February 27, 2018 Time:3:00pm - 4:30pm Location:Data Archive, 1120H Rolfe Categories:Open Refine
+This is monthly meet-up for the data cleaning and processing tool Open Refine. Participants are encouraged to bring in their data, problems, questions about Open Refine, or any Open Refine tips and successes they&amp;rsquo;d like to share. We&amp;rsquo;ll also have meetings where we cover features or plugins Open Refine provides. This will be fun and supportive meet-up where we will learn together.</description>
+    </item>
+    
+    <item>
+      <title>Programming Pizza Party (Python/R/Data)</title>
+      <link>/2018/02/15/programming-pizza-party-python-r-data/</link>
+      <pubDate>Thu, 15 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/02/15/programming-pizza-party-python-r-data/</guid>
+      <description>Date:Thursday, February 15, 2018
+Time:4:00pm - 6:00pm Location:Data Archive, 1120H Rolfe Categories:Data
+Learning Python or R? Need dedicated practice time where you can ask questions? Like pizza? This 2-hour work session is designed to give people a chance to work on their Python/R projects alongside other beginners, and receive support from other users and our in-house experts. Bring your laptop, questions, and anything you are working on. Brought to you by the UCSF Library Data Science Initiative and the Institute for Computational Health Sciences.</description>
+    </item>
+    
+    <item>
+      <title>Data and Donuts</title>
+      <link>/2018/02/14/data-and-donuts/</link>
+      <pubDate>Wed, 14 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/02/14/data-and-donuts/</guid>
+      <description>Date:Wednesday, February 14, 2018 Time:10:00am - 12:00pm Location:Data Archive, 1120H Rolfe Categories:Data
+In celebration of International Love Data Week 2018, let&amp;rsquo;s get together, eat donuts and tell data stories. Stories about data
+Stories about data What? Write your own data stories or data poem. Tell us about your favorite data set or collection and why you love it (could be personal or professional reasons: research ambition, historic value, scientific/policy/social impact.</description>
+    </item>
+    
+    <item>
+      <title>Data Management: File Organization</title>
+      <link>/2018/02/13/data-management-file-organization/</link>
+      <pubDate>Tue, 13 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/02/13/data-management-file-organization/</guid>
+      <description>Date:Tuesday, February 13, 2018 Time:3:00pm - 5:00pm Location:Data Archive, 1120H Rolfe Categories:Data
+Do you struggle with organizing your data? This workshop teaches practical techniques for organizing your data files.
+Topics include:
+ common file organization errors best practices for file organization  </description>
+    </item>
+    
+    <item>
+      <title>Data Sharing Bootcamp</title>
+      <link>/2018/02/12/data-sharing-bootcamp/</link>
+      <pubDate>Mon, 12 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/02/12/data-sharing-bootcamp/</guid>
+      <description>Date:Monday, February 12, 2018 Time:10:00am - 12:00pm Location:Young Research Library, West Classroom
+Have you ever been asked to share your data by a journal editor or funder? Do you want to make your research more reproducible and data citable? This hands-on practical bootcamp will cover all of these topics and give you the skills to
+Comply with journal/funder data sharing policies
+ Find relevant data repositories Upload your data into a repository Ensure your data is reusable Understand “metadata” Please bring your laptops and your data!</description>
+    </item>
+    
+    <item>
+      <title>Issues in Digital Archiving: Data Management</title>
+      <link>/2018/02/09/issues-in-digital-archiving-data-management/</link>
+      <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/02/09/issues-in-digital-archiving-data-management/</guid>
+      <description> Date: Feb. 9, 2018 Time: 1-4pm Place: Moore Hall Reading Room 3340 Series: Visiting Speaker Series on Digital Archiving
+URL: http://www.chicano.ucla.edu/events/2017-18-ucla-visiting-speaker-series-digital-archiving-data-management
+FEATURED SPEAKERS  Karen Cariani, American Archive of Public Broadcasting and WGBH Robert Browning, Purdue University and C-SPAN Archives Alan Rubel, University of Wisconsin iSchool Samuel Gustman, Shoah Foundation and University of Southern California  FEATURED ROUNDTABLE PARTICIPANTS  Tim Dennis, Social Science Data Archive (UCLA Library) Francis Steen, NewsScape Library (UCLA Communications Department) Matthew Vest, UCLA Music Library  </description>
+    </item>
+    
+    <item>
+      <title>Data Cleaning with R</title>
+      <link>/2018/02/06/data-cleaning-with-r/</link>
+      <pubDate>Tue, 06 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/02/06/data-cleaning-with-r/</guid>
+      <description>Information Date:Tuesday, February 6, 2018 Time:9:00am - 12:00pm Location:Young Research Library, West Classroom Categories:R (programming language)
+It is often said that data analysts spend up to 80% of their time cleaning and processing data while only 20% actually analyzing it. Learning how to clean and work with data is a critical skill. This workshop will give you a basic introduction to data preparation in R using the tidyverse (tidyR, dplyr and stringr packages).</description>
+    </item>
+    
+    <item>
+      <title>Sustainable LA URSP Data Workshops: ENV 188B</title>
+      <link>/2018/02/06/sustainable-la-ursp-data-workshops-env-188b/</link>
+      <pubDate>Tue, 06 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/02/06/sustainable-la-ursp-data-workshops-env-188b/</guid>
+      <description> Workshop Day 1: Feb 6, 2018 Lesson Materials &amp;amp; Schedule  Open Science Framework: Practical Steps for Increasing Openness and Reproducibility  Introducing the problem Replication crisis Types of reproducibility Using OSF Creating an account Creating a project Understanding permissions Adding collaborators Using components and files to structure the project Version control Integrations (gdrive, box)   Workshop Day 2: Feb 13, 2018 Lesson Materials  File Organization  File naming Organization  Data Organization in Spreadsheets  Priciples using spreadsheets Formatting data in spreadsheets Formatting problems Dates Quality control   </description>
+    </item>
+    
+    <item>
+      <title>Data Visualization with R</title>
+      <link>/2018/01/30/data-visualization-with-r/</link>
+      <pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/01/30/data-visualization-with-r/</guid>
+      <description>Info Date:Tuesday, January 30, 2018 Time:9:00am - 12:00pm Location:Young Research Library, West Classroom Categories:R (programming language)
+Creating meaningful and attractive graphics is a core skill in both data exploration and communicating your findings. In this workshop, you&amp;rsquo;ll gain experience in using the R package ggplot2 to make publication-quality graphics. We&amp;rsquo;ll cover the vernacular of the grammar-of-graphics, the conceptual model behind ggplot2 and how to use that to build plots.</description>
+    </item>
+    
+    <item>
+      <title>Introduction to R</title>
+      <link>/2018/01/25/introduction-to-r/</link>
+      <pubDate>Thu, 25 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/01/25/introduction-to-r/</guid>
+      <description>Info Date: Thursday, January 25, 2018 Time: 9:00am - 12:00pm Location: Young Research Library, West Classroom Categories: R (programming language) Calendar: http://calendar.library.ucla.edu/event/3835760
+This hands-on workshop will cover basic concepts and tools related to using R in the context of data analysis. Participants will be encouraged to help one another and to apply what they have learned to their own research problems. We&amp;rsquo;ll cover:
+ A basic introduction to R and RStudio Visualizing your data with ggplot2, the most popular graphing package in R Tidying and transforming data for analysis  You&amp;rsquo;ll come out of the course with a good foundation on the most important tools in R for working and communicating with data.</description>
+    </item>
+    
+    <item>
+      <title>R Workshop - Master of Social Science</title>
+      <link>/2017/11/28/r-workshop-master-of-social-science/</link>
+      <pubDate>Tue, 28 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/11/28/r-workshop-master-of-social-science/</guid>
+      <description>R Workshop for the Masters of Social Science (MSS) program.
+Introduction to R for non-programmers using gapminder data.
+The goal of this lesson is to teach novice programmers to write modular code and best practices for using R for data analysis. R is commonly used in many scientific disciplines for statistical analysis and its array of third-party packages. We find that many scientists who come to Software Carpentry workshops use R and want to learn more.</description>
+    </item>
+    
+    <item>
+      <title>Python Workshop - Master of Social Science</title>
+      <link>/2017/11/16/python-workshop-master-of-social-science/</link>
+      <pubDate>Thu, 16 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/11/16/python-workshop-master-of-social-science/</guid>
+      <description>Python workshop for the Masters of Social Science Program.
+This lesson is an introduction to programming in Python for people with little or no previous programming experience. It uses plotting as its motivating example. This lesson references the Jupyter Notebook, but can be taught using a regular Python interpreter as well. Please note that this lesson uses Python 3 rather than Python 2.
+ Part 1 - 2017-11-14  Running and Quiting Python, Variables, Data Types, Built-in Functions, Libraries, Tabular Data, Pandas  Part 2 - 2017-11-16  Plotting, Lists, Loops, Looping over Data Sets, Writing Functions   Syllabus  Using the Jupyter Notebook for editing and running Python.</description>
+    </item>
+    
+    <item>
+      <title>Data Archive Class Presentation PP290</title>
+      <link>/2017/11/06/data-archive-class-presentation-pp290/</link>
+      <pubDate>Mon, 06 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/11/06/data-archive-class-presentation-pp290/</guid>
+      <description>Audience: closed class Presentation for Prof. Sarah Reber&amp;rsquo;s class. Subjects covered will include Data Archive services and demonstration on finding data in public archives. The emphasis will be on helping students find material for their final project.
+ Class presentation Handout, slides (Pdf document) Handout, slides 2-up (Pdf document)  Students need to find, and download, a data set of individual respondent responses on questionnaires, interviews, tests, etc. to analyze.</description>
+    </item>
+    
+    <item>
+      <title>SQL Workshop - Master of Social Science</title>
+      <link>/2017/11/02/sql-workshop-master-of-social-science/</link>
+      <pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/11/02/sql-workshop-master-of-social-science/</guid>
+      <description>SQL workshop for the Masters of Social Science Program
+Three common options for storage are text files, spreadsheets, and databases. Text files are easiest to create, and work well with version control, but then we would have to build search and analysis tools ourselves. Spreadsheets are good for doing simple analyses, but they don’t handle large or complex data sets well. Databases, however, include powerful tools for search and analysis, and can handle large, complex data sets.</description>
+    </item>
+    
+    <item>
+      <title>Hands-on Introduction to Literate Programming</title>
+      <link>/2017/10/27/hands-on-introduction-to-literate-programming/</link>
+      <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/10/27/hands-on-introduction-to-literate-programming/</guid>
+      <description>Tim Dennis, Harrison Dekker, and Juliane Schneider Fri, 27 Oct, 10:00–12:00, Room 4 Force11 2017  A fundamental challenge for open science is how best to create and share documents containing computational results. Traditional methods involve maintaining the code, generated tables and figures, and text as separate files and manually assembling them into a finished document. As projects grow in complexity, this approach can lead to procedures which are error prone and hard to replicate.</description>
+    </item>
     
     <item>
       <title>Open Science Framework for Research Workflows</title>
@@ -17,18 +209,38 @@
       <pubDate>Wed, 18 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>/2017/10/18/open-science-framework-for-research-workflows/</guid>
-      <description>Location: Powell Library, CLICC Classroom C
+      <description>Location: Powell Library, CLICC Classroom C REGISTER NOW: https://goo.gl/v6HnEf
 There are many actions researchers can take to increase the openness and reproducibility of their work. Please join us for a workshop, hosted by the Center for Open Science, to learn easy, practical steps researchers can take to increase the reproducibility of their work. The workshop will be hands-on. Using example studies, attendees will actively participate in creating a reproducible project from start to finish.</description>
     </item>
     
     <item>
+      <title>Data Archive Class Presentation for Masters of Social Science</title>
+      <link>/2017/10/17/data-archive-class-presentation-for-masters-of-social-science/</link>
+      <pubDate>Tue, 17 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/10/17/data-archive-class-presentation-for-masters-of-social-science/</guid>
+      <description>Presentation to the Masters of Social Science class on avaiable services in the Data Archive.
+ Class presentation Handout, slides (Pdf document) Handout, slides 2-up (Pdf document)  </description>
+    </item>
+    
+    <item>
       <title>Software Carpentry - UCLA</title>
-      <link>/2017/10/16/software-carpentry---ucla/</link>
+      <link>/2017/10/16/software-carpentry-ucla/</link>
       <pubDate>Mon, 16 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>/2017/10/16/software-carpentry---ucla/</guid>
+      <guid>/2017/10/16/software-carpentry-ucla/</guid>
       <description>Software Carpentry aims to help researchers get their work done in less time and with less pain by teaching them basic research computing skills. This hands-on workshop will cover basic concepts and tools, including program design, version control, data management, and task automation. Participants will be encouraged to help one another and to apply what they have learned to their own research problems.
 Who: The course is aimed at graduate students and other researchers.</description>
+    </item>
+    
+    <item>
+      <title>Data Archive Class Presentation Psych M144/Stats M154</title>
+      <link>/2017/10/05/data-archive-class-presentation-psych-m144-stats-m154/</link>
+      <pubDate>Thu, 05 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/10/05/data-archive-class-presentation-psych-m144-stats-m154/</guid>
+      <description>Audience: closed class Presentation for Prof. Peter Bentler&amp;rsquo;s class. Subjects covered will include Data Archive services and demonstration on finding data in public archives. The emphasis will be on helping students find material for their final project.
+ Class presentation Handout, slides (Pdf document) Handout, slides 2-up (Pdf document)  Students need to find, and download, a data set of individual respondent responses on questionnaires, interviews, tests, etc. to analyze.</description>
     </item>
     
     <item>
@@ -50,6 +262,16 @@ Who: The course is aimed at graduate students and other researchers.</descriptio
     </item>
     
     <item>
+      <title>Open Refine Part 2 and BYOD</title>
+      <link>/2017/09/22/open-refine-part-2-and-byod/</link>
+      <pubDate>Fri, 22 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/09/22/open-refine-part-2-and-byod/</guid>
+      <description>LOCATION: Powell Fishbowl Time: 10am-noon Date: Sept. 22, 2017 Register: http://calendar.library.ucla.edu/event/3603414
+A follow-up Open Refine class to cover some topics we didn&amp;rsquo;t get to cover in the Library Carpentry on 9-8. We&amp;rsquo;ll pick up on how to do more transformations in Open Refine including split and join operations. We&amp;rsquo;ll then explore the wonderful world of using Open Refine to enhance our data with data from external sources, including CrossRef, Virtual International Authority File (VIAF), and WikiData.</description>
+    </item>
+    
+    <item>
       <title>Using Data Effectively: Carpentries Teach Tools and Best Practices</title>
       <link>/2017/09/07/using-data-effectively-carpentries-teach-tools-and-best-practices/</link>
       <pubDate>Thu, 07 Sep 2017 00:00:00 +0000</pubDate>
@@ -57,6 +279,27 @@ Who: The course is aimed at graduate students and other researchers.</descriptio
       <guid>/2017/09/07/using-data-effectively-carpentries-teach-tools-and-best-practices/</guid>
       <description>LOCATION: Young Research Library Presentation Room Event details: http://calendar.library.ucla.edu/event/3512041
 Looking for contextually-based data and computational training in a supportive, collaborative environment? Come join us in the Young Research Library Presentation Room for an introduction to the Software &amp;amp; Data Carpentry movement &amp;ndash; a community-based computational and data skills instruction. The Community Development Lead for Software &amp;amp; Data Carpentry, Belinda Weaver, is in town from Brisbane, Australia to promote and catalyze the Carpentries at UCLA.</description>
+    </item>
+    
+    <item>
+      <title>Literate Programming in R</title>
+      <link>/2017/09/06/literate-programming-in-r/</link>
+      <pubDate>Wed, 06 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/09/06/literate-programming-in-r/</guid>
+      <description>knitr::opts_chunk$set(echo = TRUE)  R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+When you click the Knit button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/1/01/01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/1/01/01/</guid>
+      <description> Write out by time,
+ fall we will be doing this, then this, etc.  research data program RDP bullet point - nod to UE, rebranding documentation and outreach around DSC
+Website  inventory all the RDM sites on the library unified presentation of RDM resources related to data lifecycle need to put ppl associated with service on pages and form investigate hooking up form to jira service desk have some screen shots of cornell, ucb, ucsf dependency - drupal devs and web steering resources  data preservation  sketch out how to make happen (consult with shira)  training and outreach (external)  data carpentry, other sources - dependent on Research data program and hires connection to UE  training, consulting (internal)  have levels on 23 research data things as first step to learn concepts and skills on RDM Carpentries next - data and software best practices  for moving from 4 to 2, will be dependent on hires and their roles will be to identify and develop partnerships with campus </description>
     </item>
     
   </channel>

@@ -35,7 +35,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     MathJaxVersion = "2.7.1"
 
     [params.logo]
-    url = "data-archive.png"
+    url = "UCLADataScienceCenter_logo_blue.svg"
     width = 60
     height = 60
     alt = "Logo"
