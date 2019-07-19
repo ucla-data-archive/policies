@@ -1,0 +1,57 @@
+{
+    "events": [
+        {
+            "id": 86121,
+            "title": "Friday night drinks!!",
+            "allday": true,
+            "start": "2019-01-04T00:00:00+11:00",
+            "end": "2019-01-04T23:59:59+11:00",
+            "description": "<p>Friday night social drinks!</p>",
+            "url": {
+                "public": "https://calendar.library.ucla.edu/event/86121",
+                "admin": "https://calendar.library.ucla.edu/aevent.php?c=89&m=edit&event_id=86121"
+            },
+            "location": {
+                "id": 1094,
+                "name": "Conference Room"
+            },
+            "campus": {
+                "id": 45,
+                "name": "Melbourne"
+            },
+            "audience": [
+                {
+                    "id": 7,
+                    "name": "Teens"
+                }
+            ],
+            "category": [
+                {
+                    "id": 31,
+                    "name": "Staff"
+                },
+                {
+                    "id": 34,
+                    "name": "Casuals"
+                }
+            ],
+            "owner": {
+                "id": 32645,
+                "name": "Tim Dennis"
+            },
+            "presenter": "",
+            "featured_image": "",
+            "calendar": {
+                "id": 89,
+                "name": "Staff Planner",
+                "public": "https://calendar.library.ucla.edu/calendar/staff",
+                "admin": "https://calendar.library.ucla.edu/admin/calendar/89"
+            },
+            "registration": true,
+            "seats": 20,
+            "seats_taken": 5,
+            "wait_list": false,
+            "color": "#14C762"
+        }
+    ]
+}
