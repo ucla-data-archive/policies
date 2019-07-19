@@ -3,6 +3,8 @@ title: Code of Conduct
 description: A code of conduct for the UCLA Library Data Science Center
 ---
 ![](UCLADataScienceCenter_logo_blue.png =450x)
+<img src="UCLADataScienceCenter_logo_blue.png" alt="Data Science Center" style="width:400px;"/>
+
 ## Code of Conduct
 
 The **UCLA Library Data Science Center** is dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity. However, we recognise that some groups in our community are subject to historical and ongoing discrimination, and may be vulnerable or disadvantaged. Membership in such a specific group can be on the basis of characteristics such as gender, sexual orientation, disability, physical appearance, body size, race, nationality, sex, colour, ethnic or social origin, pregnancy, citizenship, familial status, veteran status, genetic information, religion or belief, political or any other opinion, membership of a national minority, property, birth, age, or choice of text editor. We do not tolerate harassment of participants on the basis of these categories, or for any other reason.
