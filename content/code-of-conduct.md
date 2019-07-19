@@ -2,7 +2,7 @@
 title: Code of Conduct
 description: A code of conduct for the UCLA Library Data Science Center
 ---
-
+![](UCLADataScienceCenter_logo_blue.png)
 ## Code of Conduct
 
 The **UCLA Library Data Science Center** is dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity. However, we recognise that some groups in our community are subject to historical and ongoing discrimination, and may be vulnerable or disadvantaged. Membership in such a specific group can be on the basis of characteristics such as gender, sexual orientation, disability, physical appearance, body size, race, nationality, sex, colour, ethnic or social origin, pregnancy, citizenship, familial status, veteran status, genetic information, religion or belief, political or any other opinion, membership of a national minority, property, birth, age, or choice of text editor. We do not tolerate harassment of participants on the basis of these categories, or for any other reason.
@@ -21,8 +21,8 @@ Harassment is any form of behavior intended to exclude, intimidate, or cause dis
 
 Behaviour not explicitly mentioned above may still constitute harassment. The list above should not be taken as exhaustive but rather as a guide to make it easier to enrich all of us and the communities in which we participate. All Carpentry interactions should be professional regardless of location: harassment is prohibited whether it occurs on- or offline, and the same standards apply to both.
 
-Enforcement of the Code of Conduct will be respectful and not include any harassing behaviors. Any changes to the meaning of this Code of Conduct must be approved by majority vote of both the Policy subcommittee and The Carpentries Executive Council. The Carpentry Community will be informed of these changes and any concerns that are raised will be discussed by the Policy committee.
+Enforcement of the Code of Conduct will be respectful and not include any harassing behaviors. Any changes to the meaning of this Code of Conduct must be approved by the staff of the Data Science Center.
 
 Thank you for helping make this a welcoming, friendly community for all.
 
-*This code of conduct is a modified version of that used by the Carpentries. Contributors to this document: Adam Obeng, Aleksandra Pawlik, Bill Mills, Carol Willing, Erin Becker, Hilmar Lapp, Kara Woo, Karin Lagesen, Pauline Barmby, Sheila Miguez, Simon Waldman, Tracy Teal.*
+*This code of conduct is a modified version of that used by the Carpentries. Contributors to this document: Leigh Phan, Leigh Phan and Tim Dennis*
