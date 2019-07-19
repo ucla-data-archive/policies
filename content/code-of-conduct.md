@@ -2,7 +2,7 @@
 title: Code of Conduct
 description: A code of conduct for the UCLA Library Data Science Center
 ---
-<img src="UCLADataScienceCenter_logo_blue.png" alt="Data Science Center" style="width:300px;"/>
+<img src="UCLADataScienceCenter_logo_blue.png" alt="Data Science Center" width="300"/>
 
 ## Code of Conduct
 
