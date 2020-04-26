@@ -1,5 +1,6 @@
 ---
 description: A code of conduct for the UCLA Library Data Science Center
+fontfamily: quattrocento
 ---
 ![](450w-UCLADataScienceCenter_logo_blue.png)
 
@@ -19,7 +20,7 @@ Harassment is any form of behavior intended to exclude, intimidate, or cause dis
 * continuing to initiate interaction (including photography or recording) with someone after being asked to stop
 * publication of private communication without consent
 
-Behavior not explicitly mentioned above may still constitute harassment. The list above should not be taken as exhaustive but rather as a guide to make it easier to enrich all of us and the communities in which we participate. All Carpentry interactions should be professional regardless of location: harassment is prohibited whether it occurs on- or offline, and the same standards apply to both.
+Behavior not explicitly mentioned above may still constitute harassment. The list above should not be taken as exhaustive but rather as a guide to make it easier to enrich all of us and the communities in which we participate. All Data Science Center interactions should be professional regardless of location: harassment is prohibited whether it occurs on- or offline, and the same standards apply to both.
 
 Enforcement of the Code of Conduct will be respectful and not include any harassing behaviors. Any changes to the meaning of this Code of Conduct must be approved by the staff of the Data Science Center.
 
