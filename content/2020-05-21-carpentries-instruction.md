@@ -43,4 +43,4 @@ The Carpentries lesson template isn't the only way to do things. If you are fami
 
 ## Lesson discovery and aggregation
 
-This is more of a newer thing. 
+This is more of a newer thing.
